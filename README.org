@@ -23,7 +23,7 @@ When using this dataset, please cite our paper using the following =bibtex=
     booktitle = "Proceedings of The 20th International Conference on Pervasive Computing and Communications (PerCom 2022)",
 }
 #+end_src
-or other options from the [[https://www.research.ed.ac.uk/en/publications/cartagenie-context-driven-synthesis-of-city-scale-mobile-network-][IEEE page]].
+or other options from the [[https://www.research.ed.ac.uk/en/publications/cartagenie-context-driven-synthesis-of-city-scale-mobile-network-][Research Explorer page]] of University of Edinburgh.
 
 * Context data
 We provide the context data for 5 cities in Germany: Aachen, Bonn, Dresden, Frankfurt and Munich.
